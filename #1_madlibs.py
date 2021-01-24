@@ -26,6 +26,6 @@ number2 = input("A number: ")
 adj1 = input("Adjective: ")
 
 madlib2 = f"My name is {name}, and I came to {country} for {number1} years. My favorite hobby is {activity}. \
-I've been a big fan of {activity} for {number2} years. Doing {activity} is {adj1}. I would highly recommed you to do {activity}"
+I've been a big fan of {activity} for {number2} years. Doing {activity} is {adj1}. I would highly recommend you to do {activity}."
 
 print(madlib2)
