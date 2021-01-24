@@ -29,3 +29,10 @@ madlib2 = f"My name is {name}, and I came to {country} for {number1} years. My f
 I've been a big fan of {activity} for {number2} years. Doing {activity} is {adj1}. I would highly recommend you to do {activity}."
 
 print(madlib2)
+
+# #using format to output
+# noun = 'Python'
+# adj = 'beautiful'
+# name = 'Kylie'
+# word = "I want to learn {} because it is {}. So I subcribe the channel of {}."
+# print(word.format(noun, adj, name))
