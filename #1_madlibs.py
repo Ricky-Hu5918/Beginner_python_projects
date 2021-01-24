@@ -36,3 +36,9 @@ print(madlib2)
 # name = 'Kylie'
 # word = "I want to learn {} because it is {}. So I subcribe the channel of {}."
 # print(word.format(noun, adj, name))
+
+madlib3 = "My name is {name}, and I came to {country} for {number1} years. My favorite hobby is {activity}. \
+I've been a big fan of {activity} for {number2} years. Doing {activity} is {adj1}. I would highly recommend you to do {activity}."\
+    .format(name=name, country=country, number1=number1, activity=activity, number2=number2, adj1=adj1)
+
+print(madlib3)
